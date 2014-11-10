@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: c623cb9af8a036a43809f5aaeaa57651
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Box002
+    100002: Box003
+    100004: Ceiling
+    100006: Ceiling001
+    100008: Floor
+    100010: Floor001
+    100012: //RootNode
+    100014: Sidewall003
+    100016: Sidewall004
+    100018: Sidewall1
+    100020: Sidewall2
+    100022: Table
+    100024: Wall003
+    100026: Wall2
+    400000: Box002
+    400002: Box003
+    400004: Ceiling
+    400006: Ceiling001
+    400008: Floor
+    400010: Floor001
+    400012: //RootNode
+    400014: Sidewall003
+    400016: Sidewall004
+    400018: Sidewall1
+    400020: Sidewall2
+    400022: Table
+    400024: Wall003
+    400026: Wall2
+    2300000: Box002
+    2300002: Box003
+    2300004: Ceiling
+    2300006: Ceiling001
+    2300008: Floor
+    2300010: Floor001
+    2300012: Sidewall003
+    2300014: Sidewall004
+    2300016: Sidewall1
+    2300018: Sidewall2
+    2300020: Table
+    2300022: Wall003
+    2300024: Wall2
+    3300000: Box002
+    3300002: Box003
+    3300004: Ceiling
+    3300006: Ceiling001
+    3300008: Floor
+    3300010: Floor001
+    3300012: Sidewall003
+    3300014: Sidewall004
+    3300016: Sidewall1
+    3300018: Sidewall2
+    3300020: Table
+    3300022: Wall003
+    3300024: Wall2
+    4300000: Floor
+    4300002: Box002
+    4300004: Ceiling
+    4300006: Wall2
+    4300008: Sidewall2
+    4300010: Sidewall1
+    4300012: Table
+    4300014: Ceiling001
+    4300016: Sidewall003
+    4300018: Sidewall004
+    4300020: Wall003
+    4300022: Floor001
+    4300024: Box003
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
